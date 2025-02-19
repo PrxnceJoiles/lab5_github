@@ -1,1 +1,3 @@
-This is my demo of connection my local repo to my remote repo and pushing files to github.
+# GitHub Demo
+
+This is my **demo** of connecting my local repo to my remote repo and pushing files to github.
